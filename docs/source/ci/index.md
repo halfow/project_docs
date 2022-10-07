@@ -11,6 +11,7 @@ Anim ex cillum occaecat dolor magna reprehenderit velit do ut amet in esse in. I
 Lorem culpa aliquip consequat sunt officia cillum eu anim duis esse dolore. Aliquip officia in labore sint Lorem anim ad laborum. Excepteur reprehenderit laboris tempor anim est adipisicing tempor ex nostrud sint est amet veniam. Fugiat mollit qui ea sit laboris eiusmod. Sit officia eiusmod labore aliqua eu consectetur. Aute excepteur tempor voluptate ipsum.
 
 ```{toctree}
+:hidden:
 intro
 jenkins
 ```
