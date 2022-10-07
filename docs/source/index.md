@@ -1,4 +1,4 @@
-# Welcome to A sic's documentation
+# Welcome to a sic documentation
 
 Some text
 
