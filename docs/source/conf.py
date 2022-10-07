@@ -30,7 +30,6 @@ exclude_patterns = []
 html_theme = "pydata_sphinx_theme"
 html_static_path = ['_static']
 
-# TODO: this didn't work for this theme, might not be a thing
 # html_theme_options = {
 #   "show_toc_level": 3
 # }
